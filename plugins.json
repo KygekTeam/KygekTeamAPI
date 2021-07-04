@@ -16,8 +16,9 @@
             "poggit": "https://poggit.pmmp.io/p/KygekRulesUI/",
             "nukkit": "https://cloudburstmc.org/resources/kygekrulesui/"
         },
-        "changelogs": {
-            "1.1.0": {
+        "changelogs": [
+            {
+                "version": "1.1.0",
                 "releaseDate": "August 4th, 2020",
                 "warning": "If you have used earlier versions of the plugin, a file named config_old.yml will be generated. The old data will be there. You can copy the title, content, and button from it, but NEVER touch the config-version!",
                 "download": false,
@@ -26,20 +27,22 @@
                     "Added config-version in config.yml to update the config.yml if a newer one is detected"
                 ]
             },
-            "1.0.1": {
+            {
+                "version": "1.0.1",
                 "releaseDate": "August 2nd, 2020",
                 "changes": [
                     "Config automatically gets reloaded when /rules is executed",
                     "Fixed no permission on non-op players"
                 ]
             },
-            "1.0.0": {
+            {
+                "version": "1.0.0",
                 "releaseDate": "August 1st, 2020",
                 "changes": [
                     "Initial release"
                 ]
             }
-        }
+        ]
     },
 
     {
@@ -49,26 +52,29 @@
         "downloads": {
             "nukkit": "https://cloudburstmc.org/resources/kygekeasygamemode.615/"
         },
-        "changelogs": {
-            "1.1.1": {
+        "changelogs": [
+            {
+                "version": "1.1.1",
                 "releaseDate": "December 27th, 2020",
                 "changes": [
                     "Fixed incorrect permission node"
                 ]
             },
-            "1.1.0": {
+            {
+                "version": "1.1.0",
                 "releaseDate": "December 14th, 2020",
                 "changes": [
                     "Code rewrite"
                 ]
             },
-            "1.0.0": {
+            {
+                "version": "1.0.0",
                 "releaseDate": "August 12th, 2020",
                 "changes": [
                     "Initial release"
                 ]
             }
-        }
+        ]
     },
 
     {
@@ -99,8 +105,9 @@
             "poggit": "https://poggit.pmmp.io/p/KygekWhitelistKick/",
             "nukkit": "https://cloudburstmc.org/resources/kygekwhitelistkick.619/"
         },
-        "changelogs": {
-            "1.0.0": {
+        "changelogs": [
+            {
+                "version": "1.0.0",
                 "releaseDate": "November 2nd, 2020",
                 "changes": [
                     "Initial release"
