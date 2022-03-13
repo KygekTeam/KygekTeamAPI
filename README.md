@@ -1,7 +1,5 @@
 # KygekTeam API
 
-> **NOTICE:** The KygekTeam API is currently down, however it's unlikely it will return back online.
-
 ## About
 Kygek was busy writing the new website, then an idea struck me... "What if we had an API that used JSON like the new website!" So, I began coding, and this is what it came out to be.
 ## The server
